@@ -59,8 +59,7 @@ sobel-edge-detection-fpga/
 ├── reports/
 │   ├── SOC_report_SH.pdf
 │   └── SoC_Final_Project_ppt_SH.pptx
-├── README.md
-└── .gitignore
+└── README.md
 ```
 
 ---
