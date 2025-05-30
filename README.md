@@ -48,7 +48,7 @@ Purdue University
 ## 📂 Repository Structure
 
 ```
-soc-sobel-filter-hw-accel/
+sobel-edge-detection-fpga/
 ├── vivado_project/
 │   ├── final_project.xpr.zip        ← Complete Vivado project archive
 │   └── sobel_x/, sobel_y/           ← VHDL modules for filters
