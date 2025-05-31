@@ -50,15 +50,22 @@ Purdue University
 ```
 sobel-edge-detection-fpga/
 ├── vivado_project/
-│   ├── final_project.xpr.zip        ← Complete Vivado project archive
-│   └── sobel_x/, sobel_y/           ← VHDL modules for filters
+│   ├── final_project.xpr.zip              ← Complete Vivado project archive
+│   ├── FILTERH_sobel_x.vhd                ← Horizontal 1D filter for Sobel X
+│   ├── FILTERV_sobel_x.vhd                ← Vertical 1D filter for Sobel X
+│   ├── FILTERH_sobel_y.vhd                ← Horizontal 1D filter for Sobel Y
+│   ├── FILTERV_sobel_y.vhd                ← Vertical 1D filter for Sobel Y
+│   ├── mynewfilter_v1_0 (sobel x).vhd     ← Sobel X wrapper IP core
+│   └── sobel_y_2nd_trail_v1_0.vhd         ← Final Sobel Y wrapper IP with fix
 ├── jupyter_notebooks/
-│   └── final_notebook.ipynb         ← Python control & gradient calculation
+│   └── final_notebook.ipynb               ← Python control & gradient calculation
 ├── images/
-│   ├── input/, output_hw/, output_sw/
+│   ├── input/                             
+│   ├── output_hw/
+│   └── output_sw/
 ├── reports/
-│   ├── SOC_report_SH.pdf
-│   └── SoC_Final_Project_ppt_SH.pptx
+│   ├── final_report.pdf
+│   └── presentation.pptx
 └── README.md
 ```
 
