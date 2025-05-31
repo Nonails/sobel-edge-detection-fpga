@@ -69,6 +69,8 @@ sobel-edge-detection-fpga/
 └── README.md
 ```
 
+**For full Vivado build files, see `final_project.xpr.zip` in `vivado_project/`.**
+
 ---
 
 ## ⚡ Performance Metrics
