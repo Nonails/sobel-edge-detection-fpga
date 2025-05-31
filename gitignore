@@ -1,0 +1,21 @@
+# Ignore Vivado-generated and temp files
+*.jou
+*.log
+*.str
+*.runs/
+*.cache/
+*.hw/
+*.webtalk/
+*.sim/
+*.ip_user_files/
+*.xpr.user
+
+# Ignore Python temp files
+__pycache__/
+*.pyc
+*.pyo
+*.ipynb_checkpoints/
+
+# OS files
+.DS_Store
+Thumbs.db
