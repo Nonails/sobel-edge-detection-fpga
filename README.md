@@ -29,9 +29,9 @@ Purdue University
 
 ## 📷 Demo Outputs
 
-| Input Image | Sobel X (HW) | Sobel Y (HW) | Gradient |
-|-------------|--------------|--------------|----------|
-| ![Input](images/input/sample.jpg) | ![X](images/output_hw/x.jpg) | ![Y](images/output_hw/y.jpg) | ![Grad](images/output_hw/gradient.jpg) |
+| Input Image | HW output | SW output |
+|-------------|--------------|-----------|
+| ![Input](images/input/sample.jpg) | ![HW](images/output_hw/x.jpg) | ![SW](images/output_hw/y.jpg) | 
 
 ---
 
