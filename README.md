@@ -31,7 +31,7 @@ Purdue University
 
 | Input Image | HW output | SW output |
 |-------------|--------------|-----------|
-| ![Input](images/input/input.jpg) | ![HW](images/output_hw/HW_outputs.png) | ![SW](images/output_sw/SW_outputs.png) | 
+| ![Input](images/input/Input.jpg) | ![HW](images/output_hw/HW_outputs.png) | ![SW](images/output_sw/SW_outputs.png) | 
 
 ---
 
